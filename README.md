@@ -45,6 +45,6 @@ Both routes **start at (42.384086, -71.021096)**, which is just north of Curtis 
 It appears impossible (using Google Maps GUI) to get to this endpoint without going across the Sumner Tunnel, but the tunnel waypoint is included for clarity and consistency with **Route B**.
 
 ### Route B (I-90 S to I-93 N via Ted Williams Tunnel)
-**Route B.** sets a waypoint at the **center of the Ted Williams Tunnel, at (42.353492, -71.028607)** and ends on the single-direction, **I-93 N Gov Ctr exit ramp (Exit 23), at (42.361645, -71.054361)**.
+**Route B.** sets a waypoint at the **center of the Ted Williams Tunnel, at (42.353492, -71.028607)** and ends 36 feet from end of the single-direction, **I-93 N Gov Ctr exit ramp (Exit 23), at (42.361697, -71.054964)**.
 
 It's impossible to get to this endpoint without getting on I-93 N from the Seaport District at the latest, and with the Ted Williams Tunnel waypoint, unreasonable to get to without going from I-90 S directly to I-93 N (which is the desired route).
