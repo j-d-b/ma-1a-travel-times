@@ -1,0 +1,11 @@
+{
+  "name": "1a-travel-times",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "got": "^9.3.2"
+  }
+}
