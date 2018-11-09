@@ -1,5 +1,5 @@
 # MA-1A S to Gov Center Travel Times
-The script will output the travel time in minutes using the [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/start) from MA-1A S just South of Boardman Street to Government Center, for two routes:
+The script will output the travel time in minutes using the [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/start) from MA-1A S just south of Boardman Street to Government Center, for two routes:
 
 **Route A.** MA-1A S via the Sumner Tunnel
 
