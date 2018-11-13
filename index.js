@@ -4,7 +4,7 @@ const got = require('got');
 const { API_KEY } = process.env;
 const BASE_URL = 'https://maps.googleapis.com/maps/api/directions/json?';
 
-const ORIGIN = '42.384086,-71.021096'; // Just north of Curtis Street on MA-1A S
+const ORIGIN = '42.395917,-71.009659'; // Between Boardman Street and Winthrop Ave on MA-1A S
 const SUMNER_TUNNEL = '42.367552,-71.047537'; // Center of Sumner Tunnel
 const WILLIAMS_TUNNEL = '42.353492,-71.028607'; // Center of Ted Williams Tunnel
 const SUMNER_ROUTE_END = '42.363861,-71.058278'; // End of MA-1A S Gov Ctr exit ramp

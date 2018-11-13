@@ -1,5 +1,5 @@
 # MA-1A S to Gov Center Travel Times
-The script will output the travel time in minutes using the [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/start) from MA-1A S just north of Curtis Street to Government Center, for two routes:
+The script will output the travel time in minutes using the [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/start) from MA-1A S between Boardman Street and Winthrop Ave to Government Center, for two routes:
 
 **Route A.** MA-1A S via the Sumner Tunnel
 
@@ -37,7 +37,7 @@ Route B (Williams): 9 mins
 ```
 
 ## Routes
-Both routes **start at (42.384086, -71.021096)**, which is just north of Curtis Street on MA-1A S.
+Both routes **start at (42.395917, -71.009659)**, which is Between Boardman Street and Winthrop Ave on MA-1A S.
 
 ### Route A (MA-1A South via Sumner Tunnel)
 **Route A.** sets a waypoint at the **center of the Sumner Tunnel, at (42.367552, -71.047537)** and ends at the end of the single-direction, **MA-1A S Gov Ctr exit ramp, at (42.363861, -71.058278)**.
